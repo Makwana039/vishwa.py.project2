@@ -127,9 +127,7 @@ This project helps beginners practice:
 - Find maximum and minimum numbers.
 - Save results to a text file.
 - Improve the user interface.
+  
+## 📄 License
 
----
-
-## 👨‍💻 Author
-
-**Vishwa Makwana**
+This project is created for educational and learning purposes.
